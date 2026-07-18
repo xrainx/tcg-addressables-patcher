@@ -10,7 +10,8 @@ Fixes the TCG World PC startup hang where `AddressablesManager.CheckAndDownloadC
 2. Download **`TCG_Addressables_Patcher.exe`** from the [latest release](../../releases/latest).
 3. Double-click the EXE.
 4. Choose **[1] Apply Patch**.
-5. Launch the game again.
+5. Type **Y** and press Enter when asked to confirm.
+6. Launch the game again.
 
 You may then see a normal multi-GB content download — that is expected after the catalog spoof.
 
